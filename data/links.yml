@@ -5,12 +5,6 @@ tiles:
   url: "https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/"
   img: "logos/analytics.svg"
   tags: ["favorite", "sm"]
-#-
-#
-#  name: "Nutshell CRM"
-#  url: "https://app.nutshell.com/dashboard"
-#  img: "logos/nutshell.jpg"
-#  tags: ["favorite", "sm"]
 
 -
   name: "Eventbrite"
