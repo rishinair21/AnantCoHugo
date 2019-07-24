@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "slate theme demo"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "Favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "Sales and Marketing"
+tag = "sm"
+icon = "handshake-o"
+
+[[ params.nav ]]
+name = "Operations and Infrastructure"
+tag = "oi"
+icon = "server"
+
+[[ params.nav ]]
+name = "Research and Development"
+tag = "rnd"
+icon = "book"
+
+[[ params.nav ]]
+name = "Socials"
+tag = "socials"
+icon = "facebook"

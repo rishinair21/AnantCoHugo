@@ -1,0 +1,115 @@
+tiles:
+
+-
+  name: "Google Analytics"
+  url: "https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/"
+  img: "logos/analytics.svg"
+  tags: ["favorite", "sm"]
+-
+
+  name: "Nutshell CRM"
+  url: "https://app.nutshell.com/dashboard"
+  img: "logos/nutshell.jpg"
+  tags: ["favorite", "sm"]
+
+-
+  name: "Eventbrite"
+  url: "http://www.eventbrite.com/o/anant-corporation-1072927283"
+  img: "logos/eventbrite.svg"
+  txt_color: "#ffffff"
+  bg_color: "FFFFFF"
+  tags: ["search", "sm"]
+-
+  name: "Appleseed Search"
+  url: "http://learn.appleseedapp.net/en/latest/"
+  img: "logos/appleseed.png"
+  bg_color: "#000000"
+  txt_color: "#ff9900"
+  tags: ["favorite", "shopping", "sm"]
+-
+  name: "Freshbooks"
+  url: "https://anant.freshbooks.com/"
+  img: "logos/freshbooks.svg"
+  bg_color: "#f5f2d0"
+  txt_color: "#ffffff"
+  tags: ["favorite", "oi"]
+-
+  name: "Gmail"
+  url: "https://mail.google.com/"
+  img: "logos/gmail.svg"
+#  bg_color: "#191414"
+  txt_color: "#1db954"
+  tags: ["favorite", "oi"]
+-
+  name: "Slack"
+  url: "anantcorp.slack.com"
+  img: "logos/slack.svg"
+#  bg_color: "#ffffff"
+  txt_color: "#ff5722"
+  tags: ["music", "oi"]
+
+-
+  name: "Codebase"
+  url: "https://anant-corporation.codebasehq.com/login"
+  img: "logos/codebase.svg"
+#  bg_color: "#005483"
+  txt_color: "#ffffff"
+  tags: ["rnd"]
+
+-
+  name: "DeployHQ"
+  url: "https://anant-corporation.deployhq.com/login"
+  img: "logos/deployhq.svg"
+#  bg_color: "#ffffff"
+  txt_color: "#ff3300"
+  tags: ["rnd"]
+-
+  name: "AppVeyor CI"
+  url: "https://ci.appveyor.com/login"
+  img: "logos/appveyor.svg"
+#  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["rnd"]
+-
+  name: "LinkedIn"
+  url: "https://www.linkedin.com/company/anant/"
+  img: "logos/linkedin.svg"
+#  bg_color: "#ffffff"
+#  txt_color: "#000000"
+  tags: ["socials"]
+-
+  name: "Twitter"
+  url: "https://twitter.com/anantcorp"
+  img: "logos/twitter.svg"
+  bg_color: "#1da1f2"
+  txt_color: "#f5f8fa"
+  tags: ["socials"]
+
+#-
+#  name: "twitch"
+#  url: "https://twitch.com"
+#  img: "logos/twitch.svg"
+#  bg_color: "#f1f1f1"
+#  txt_color: "#6441a5"
+#  tags: ["video"]
+-
+  name: "youtube"
+  url: "https://www.youtube.com/channel/UCJAA86DS2ViyGbhnVyY_N3g"
+  img: "logos/youtube.svg"
+  bg_color: "#ffffff"
+  txt_color: "#cd201f"
+  tags: ["socials"]
+#-
+#  name: "netflix"
+#  url: "https://netflix.com"
+#  img: "logos/netflix.svg"
+#  bg_color: "#221f1f"
+#  txt_color: "#e50914"
+#  tags: ["video"]
+#
+#-
+#  name: "imgur"
+#  url: "https://imgur.com"
+#  img: "logos/imgur.svg"
+#  bg_color: "#ffffff"
+#  txt_color: "#85bf25"
